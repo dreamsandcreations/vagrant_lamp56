@@ -6,7 +6,7 @@ vagrantfile:
 
     vm:
     
-        hostname: local.puphpet                 <- hernoem naar local_PROJECT.puphpet
+        hostname: local.puphpet                 <- hernoem naar local-PROJECT.puphpet
         network:
             private_network: 192.168.56.101     <- zet naar correct ip
             forwarded_port:
