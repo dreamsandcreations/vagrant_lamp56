@@ -13,9 +13,9 @@ vagrantfile:
                 vflnp_5zttq7xwsgwm:
                     host: '9101'                <- zet naar 91 + laatste 2 cijfers van ip: 
                     
-apache:
-    vhosts:
-        av_4yzvuotkefrk:
-            servername: awesome.dev             <- zet naar gewenst domein
-            serveraliases:
-                - www.awesome.dev               <- zet naar gewenst domein
+    apache:
+        vhosts:
+            av_4yzvuotkefrk:
+                servername: awesome.dev         <- zet naar gewenst domein
+                serveraliases:
+                    - www.awesome.dev           <- zet naar gewenst domein
