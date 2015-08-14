@@ -23,3 +23,8 @@ vagrantfile:
 ## ssh key voor sequal pro:
 
 puphpet/files/dot/ssh/id_rsa
+
+## Mailcatcher
+
+To use mailcatcher: in parameters.yml
+mailer_host: 127.0.0.1:1025
