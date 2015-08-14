@@ -28,3 +28,6 @@ puphpet/files/dot/ssh/id_rsa
 
 To use mailcatcher: in parameters.yml
 mailer_host: 127.0.0.1:1025
+
+To view mailcatcher:
+http://IP_OR_DOMAIN:1080/
