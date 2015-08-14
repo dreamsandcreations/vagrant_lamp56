@@ -19,3 +19,7 @@ vagrantfile:
                 servername: awesome.dev         <- zet naar gewenst domein
                 serveraliases:
                     - www.awesome.dev           <- zet naar gewenst domein
+                    
+## ssh key voor sequal pro:
+
+puphpet/files/dot/ssh/id_rsa
